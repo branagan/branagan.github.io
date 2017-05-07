@@ -1,0 +1,20 @@
+
+
+.navbar {
+		background-color:#343F3E; 
+		margin-top: 20px;
+
+	}
+
+h1{
+	color: white;
+	margin-top: 180px;
+	font-size: 40px;
+	font-family: verdana;
+}
+
+h2{
+	color: grey;
+	text-shadow:50px; 
+	font-family: verdana ;
+}

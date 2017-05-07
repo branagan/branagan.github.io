@@ -1,0 +1,26 @@
+.navbar {
+		background-color:#343F3E; 
+		margin-top: 20px;
+	}
+
+.jumbotron{
+	font-family: verdana;
+	color: #C48F3A;
+	font-family: verdana;
+
+}
+
+.form-group{
+	color: #C48F3A;
+	font-family: verdana;
+
+}
+
+.button{
+	background-color:#C48F3A;
+	border-radius: 30px;
+	font-family: verdana; 
+	margin-left: 700px;
+}
+
+
